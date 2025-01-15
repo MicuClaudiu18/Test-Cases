@@ -1,2 +1,2 @@
 # Test-Cases
-Sample test cases
+In this repository, I will present some sample test cases that I wrote working on previous projects.
